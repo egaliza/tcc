@@ -12,23 +12,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
-*   Colaboradores do ONS
-*   Agentes do Setor Elétrico
-*   Empresas ligadas ou não ao Setor Elétrico
-*   Pessoas físicas ou jurídicas
-*   Centros de Pesquisas
-*   Universidades
-*   Jornalistas
-*   Estudantes
-Um sistema de recomendações pode ser útil para o ONS, pois ele pode alavancar o consumo de produtos no portal do SINTEGRE. Ou seja, o objetivo em adotar esta solução é aumentar o consumo destes produtos. Este aumento deverá ser possível através da geração de recomendações personalizadas, que considerem as preferências dos usuários e as características dos produtos.
-
-Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar produtos aos usuários no portal e não possui, também, um mecanismo de divulgação personalizada para seus produtos. Deste modo, o portal poderia se beneficiar com os seguintes recursos:
-*   Recomendar produtos para usuários cujo conteúdo seja mais relevante ao seu perfil;
-*   Permitir aos usuários ampliar o conhecimento sobre os produtos do portal;
-*   Ampliar o uso do portal com o aumento do consumo de mais produtos oferecidos pelo SINTEGRE;
-*   Ampliar o número de usuários no SINTEGRE cativando-os com recomendações de produtos mais aderentes e personalizados;
-*   Gerar lista de possíveis novos consumidores para determinados produtos.
+ba bla bla
 
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
@@ -43,10 +27,24 @@ Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod 
 
 ### 1. Introdução
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
+*   Colaboradores do ONS
+*   Agentes do Setor Elétrico
+*   Empresas ligadas ou não ao Setor Elétrico
+*   Pessoas físicas ou jurídicas
+*   Centros de Pesquisas
+*   Universidades
+*   Jornalistas
+*   Estudantes
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Um sistema de recomendações pode ser útil para o ONS, pois ele pode alavancar o consumo de produtos no portal do SINTEGRE. Ou seja, o objetivo em adotar esta solução é aumentar o consumo destes produtos. Este aumento deverá ser possível através da geração de recomendações personalizadas, que considerem as preferências dos usuários e as características dos produtos.
 
+Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar produtos aos usuários no portal e não possui, também, um mecanismo de divulgação personalizada para seus produtos. Deste modo, o portal poderia se beneficiar com os seguintes recursos:
+*   Recomendar produtos para usuários cujo conteúdo seja mais relevante ao seu perfil;
+*   Permitir aos usuários ampliar o conhecimento sobre os produtos do portal;
+*   Ampliar o uso do portal com o aumento do consumo de mais produtos oferecidos pelo SINTEGRE;
+*   Ampliar o número de usuários no SINTEGRE cativando-os com recomendações de produtos mais aderentes e personalizados;
+*   Gerar lista de possíveis novos consumidores para determinados produtos.
 ### 2. Modelagem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
