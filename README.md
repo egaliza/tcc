@@ -1,12 +1,11 @@
 # Sistema de Recomendação de Conteúdo para o Portal SINTEGRE - ONS
 
-#### Aluno: [Elvis Galiza](https://github.com/egaliza)
-			 [Ederson Albino](xxxxx)
+#### Alunos: [Elvis Galiza](https://github.com/egaliza)
+			 [Ederson Albino](https://github.com/link_do_github) 
 #### Orientadora: [Manoela Kohler](https://github.com/link_do_github) 
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-<!-- para os links a seguir, caso os arquivos estejam no mesmo repositório que este README, não há necessidade de incluir o link completo: basta incluir o nome do arquivo, com extensão, que o GitHub completa o link corretamente -->
 - [Link para o código](Treino_RecSys_Elvis_Ederson.ipynb). 
 
 ---
@@ -14,6 +13,8 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 ### Resumo
 
 O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
+*   Item da lista
+*   Item da lista
 . Colaboradores do ONS
 . Agentes do Setor Elétrico
 . Empresas ligadas ou não ao Setor Elétrico
