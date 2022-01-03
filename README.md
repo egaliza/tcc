@@ -13,13 +13,16 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em português -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+O SINTEGRE é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
+•	Colaboradores do ONS
+•	Agentes do Setor Elétrico
+•	Empresas ligadas ou não ao Setor Elétrico
+•	Pessoas físicas ou jurídicas
+•	Centros de Pesquisas
+•	Universidades
+•	Jornalistas
+•	Estudantes
+Um sistema de recomendações pode ser útil para o ONS, pois ele pode alavancar o consumo de produtos no portal do SINTEGRE. Ou seja, o objetivo em adotar esta solução é aumentar o consumo destes produtos. Este aumento deverá ser possível através da geração de recomendações personalizadas, que considerem as preferências dos usuários e as características dos produtos.
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
