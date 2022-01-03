@@ -13,24 +13,22 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 ### Resumo
 
 O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
-*   Item da lista
-*   Item da lista
-. Colaboradores do ONS
-. Agentes do Setor Elétrico
-. Empresas ligadas ou não ao Setor Elétrico
-. Pessoas físicas ou jurídicas
-. Centros de Pesquisas
-. Universidades
-. Jornalistas
-. Estudantes
+*   Colaboradores do ONS
+*   Agentes do Setor Elétrico
+*   Empresas ligadas ou não ao Setor Elétrico
+*   Pessoas físicas ou jurídicas
+*   Centros de Pesquisas
+*   Universidades
+*   Jornalistas
+*   Estudantes
 Um sistema de recomendações pode ser útil para o ONS, pois ele pode alavancar o consumo de produtos no portal do SINTEGRE. Ou seja, o objetivo em adotar esta solução é aumentar o consumo destes produtos. Este aumento deverá ser possível através da geração de recomendações personalizadas, que considerem as preferências dos usuários e as características dos produtos.
 
 Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar produtos aos usuários no portal e não possui, também, um mecanismo de divulgação personalizada para seus produtos. Deste modo, o portal poderia se beneficiar com os seguintes recursos:
-. Recomendar produtos para usuários cujo conteúdo seja mais relevante ao seu perfil;
-. Permitir aos usuários ampliar o conhecimento sobre os produtos do portal;
-. Ampliar o uso do portal com o aumento do consumo de mais produtos oferecidos pelo SINTEGRE;
-. Ampliar o número de usuários no SINTEGRE cativando-os com recomendações de produtos mais aderentes e personalizados;
-. Gerar lista de possíveis novos consumidores para determinados produtos.
+*   Recomendar produtos para usuários cujo conteúdo seja mais relevante ao seu perfil;
+*   Permitir aos usuários ampliar o conhecimento sobre os produtos do portal;
+*   Ampliar o uso do portal com o aumento do consumo de mais produtos oferecidos pelo SINTEGRE;
+*   Ampliar o número de usuários no SINTEGRE cativando-os com recomendações de produtos mais aderentes e personalizados;
+*   Gerar lista de possíveis novos consumidores para determinados produtos.
 
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
