@@ -13,14 +13,14 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-Este trabalho consiste na elaboração de uma prova de conceito (*POC*) de um modelo de aprendizado profundo (*DL*) para um sistema que recomende produtos disponíveis no Portal SINTEGRE, elaborados pelo Operador Nacional do Sistema Elétrico - ONS, para usuários internos e externos à organização. 
+Este trabalho consiste na elaboração de uma prova de conceito (*POC*) de uma rede neural para uma tarefa de aprendizado profundo (*DL*) para um sistema que recomende produtos disponíveis no Portal SINTEGRE, elaborados pelo Operador Nacional do Sistema Elétrico - ONS, para usuários internos e externos à organização. 
 O objetivo da POC é verificar a viabilidade de uma solução deste nível, avaliando as técnicas, modelos e algoritmos que melhor atendam aos requisitos e dados do SINTEGRE.
 
 
 ### <a lang="en">Abstract </a>
 
 <a lang="en">
-This work consists in the elaboration of a proof of concept <i>(POC)</i> of a deep learning model <i>(DL)</i> for a system that recommends products available on the SINTEGRE Portal, prepared by the National Electric System Operator - ONS, for internal users and external to the organization.
+This work consists in the elaboration of a proof of concept <i>(POC)</i> of a neural network for a deep learning task <i>(DL)</i> for a system that recommends products available on the SINTEGRE Portal, prepared by the National Electric System Operator - ONS, for internal users and external to the organization.
 The purpose of POC is to verify the feasibility of a solution at this level, evaluating the techniques, models and algorithms that best meet the requirements and data of SINTEGRE.
 </a>
 
@@ -47,6 +47,7 @@ Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar pr
 
 ### 2. Modelagem
 
+#### 2.1 SUB-Modelagem
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
 Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
