@@ -78,9 +78,14 @@ Ao final, basta apenas ordenar as recomendações por usuário, selecionando aqu
 
 ### 3. Resultados
 
-bla bla
+Para melhor representar o resultado final da POC, executamos o modelo para todos os usuários da base de teste.
+Agrupando-os em perfis que estabelecemos mediante a análise de suas características e agrupando os produtos conforme os processos técnicos (negócio) que os mesmos são gerados
 
 <img src="resultado.png">
+
+O gráfico acima exibe 9 usuários selecionados aleatoriamente da base de teste para um deteminado perfil.
+Onde os círculos azuis demonstram a quantidade de produtos que cada usuário assinou (dado de entrada) e os círculos roxos exibem a quantidade de produtos recomendados pelo modelo de previsão por processo técnico.
+
 
 ### 4. Conclusões
 
