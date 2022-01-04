@@ -1,7 +1,10 @@
 # Sistema de Recomendação de Conteúdo para o Portal SINTEGRE - ONS
 
-#### Alunos: [Elvis Galiza](https://github.com/egaliza)\
+#### Alunos: [Elvis Galiza](https://github.com/egaliza)
+
 			 [Ederson Albino](https://github.com/esousaa) 
+
+
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler) 
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
