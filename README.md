@@ -7,7 +7,7 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-- [Link para o código](Treino_RecSys_Elvis_Ederson.ipynb). 
+- [Treino_RecSys_Elvis_Ederson.ipynb](Treino_RecSys_Elvis_Ederson.ipynb). 
 
 ---
 
@@ -64,8 +64,8 @@ Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis
 
 ---
 
-Matrícula: 192.671.183 - Elvis Galiza
-		   xxxxxxxxxx - Ederson Albino
+Matrícula: 192.671.183 - Elvis Galiza\
+		   202.100.139 - Ederson Albino
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
