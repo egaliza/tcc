@@ -1,8 +1,6 @@
 # Sistema de Recomendação de Conteúdo para o Portal SINTEGRE - ONS
 
-#### Alunos: [Elvis Galiza](https://github.com/egaliza)
-
-			 [Ederson Albino](https://github.com/esousaa) 
+#### Alunos: [Elvis Galiza](https://github.com/egaliza), [Ederson Albino](https://github.com/esousaa) 
 
 
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler) 
