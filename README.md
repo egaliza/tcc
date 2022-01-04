@@ -89,9 +89,15 @@ Onde os círculos azuis demonstram a quantidade de produtos que cada usuário as
 
 ### 4. Conclusões
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+O modelo de rede neural implementado na POC demonstra que é viável a utilização de um sistema de recomendação para sugerir produtos aos usuários do portal SINTEGRE do ONS.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Para tornar esta solução mais robusta tecnicamente e com isso evoluir no atendimento às necessidades da área de negócio, identificou-se pontos de melhorias a serem implantados no próprio portal com o objetivo de amplificar a base de dados e com isso melhorar as informações que alimentam o modelo de aprendizado profundo utilizado, conseguindo assim ter recomendações mais assertivas.
+Sugerimos ações como:
+* Implementar um processo de auditoria na navegação pelo portal, para coleta de dados de menira implícita
+* Fazer recomendações utilizando as avaliações de produtos realizadas por usuários 
+* Considerar os produtos favoritados por usuários para gerar novas recomendações
+* Criar listas de usuários para campanhas de divulgação de produtos
+
 
 ---
 
