@@ -47,10 +47,10 @@ Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar pr
 
 ### 2. Modelagem
 
-#### 2.1 SUB-Modelagem
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
+#### 2.1 O que é um Sistema de Recomendações
+Um Sistema de recomendação pode ser definido como sendo uma ferramenta que utiliza uma série de algoritmos, análises de dados e conceitos de inteligência artificial para fornecer sugestões de itens a serem recomendados para um usuário. As sugestões fornecidas visam ajudar os usuários em vários processos de tomada de decisão, como por exemplo, quais itens comprar, quais música escutar ou quais notícias ler. Os sistemas de recomendação são valiosos, pois ajudam os usuários a lidarem com a sobrecarga de informações, filtrando-as e recomendando apenas aquelas que seriam, realmente, importantes para os usuários.
 
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
+Um sistema de recomendação está relacionado a questões sociais, ele se preocupa com a extração de informações sobre as preferências e escolhas das pessoas, do que as pessoas gostam e do que não gostam. Um sistema de recomendação utiliza os dados que são fornecidos nessas escolhas, nessas curtidas, através de navegação na web e em apps. 
 
 ### 3. Resultados
 
