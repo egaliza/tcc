@@ -69,6 +69,13 @@ Decodificador (Decoder): Esta parte tem como objetivo reconstruir a entrada da r
 
 <img src="AE.png">
 
+Com essas caraterísticas, as RNs Autoencoders são usadas em sistemas de recomendação para filtragem colaborativa, onde o usuário interage com o conteúdo. No nosso caso, temos a relação em uma matriz de quais produtos (colunas) foram assinados por cada usuário (linha). Representado por 0 (não assinado) e 1(assinado).
+A partir desta matriz usuário x produto, podemos de fato comprimí-la por ser esparsa e depois reconstruir uma versão completa da matriz contendo uma aproximação de todos os valores que antes eram nulos. Algo como:
+
+<img src="matriz.png">
+
+Ao final, basta apenas ordenar as recomendações por usuário, selecionando aquelas de maior pontuação.
+
 ### 3. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
