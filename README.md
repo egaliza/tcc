@@ -20,7 +20,7 @@ O objetivo da POC é verificar a viabilidade de uma solução deste nível, aval
 ### <a lang="en">Abstract </a>
 
 <a lang="en">
-This work consists in the elaboration of a proof of concept (*POC*) of a deep learning model (*DL*) for a system that recommends products available on the SINTEGRE Portal, prepared by the National Electric System Operator - ONS, for internal users and external to the organization.
+This work consists in the elaboration of a proof of concept <i>(POC)</i> of a deep learning model <i>(DL)</i> for a system that recommends products available on the SINTEGRE Portal, prepared by the National Electric System Operator - ONS, for internal users and external to the organization.
 The purpose of POC is to verify the feasibility of a solution at this level, evaluating the techniques, models and algorithms that best meet the requirements and data of SINTEGRE.
 </a>
 
