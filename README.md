@@ -44,6 +44,7 @@ Atualmente, o portal do SINTEGRE não possui uma maneira eficaz de recomendar pr
 *   Ampliar o uso do portal com o aumento do consumo de mais produtos oferecidos pelo SINTEGRE;
 *   Ampliar o número de usuários no SINTEGRE cativando-os com recomendações de produtos mais aderentes e personalizados;
 *   Gerar lista de possíveis novos consumidores para determinados produtos.
+
 ### 2. Modelagem
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
@@ -69,4 +70,4 @@ Matrícula: 192.671.183 - Elvis Galiza\
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
-Curso de Pós Graduação *Business Intelligence Master*
+Curso de Pós Graduação <b lang="en">Business Intelligence Master</b>
