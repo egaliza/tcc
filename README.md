@@ -12,22 +12,18 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 ### Resumo
 
-ba bla bla
+Este trabalho consiste na elaboração de uma prova de conceito (*POC*) de um modelo de aprendizado profundo (*DL*) para um sistema que recomende produtos disponíveis no Portal SINTEGRE, elaborados pelo Operador Nacional do Sistema Elétrico - ONS, para usuários internos e externos à organização. 
+O objetivo da POC é verificar a viabilidade de uma solução deste nível, avaliando as técnicas, modelos e algoritmos que melhor atendam aos requisitos e dados do SINTEGRE.
 
 
-### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
+### Abstract 
 
-<!-- trocar o texto abaixo pelo resumo do trabalho, em inglês -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
-
-Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
-
-Donec molestie, ante quis tempus consequat, mauris ante fringilla elit, euismod hendrerit leo erat et felis. Mauris faucibus odio est, non sagittis urna maximus ut. Suspendisse blandit ligula pellentesque tincidunt malesuada. Sed at ornare ligula, et aliquam dui. Cras a lectus id turpis accumsan pellentesque ut eget metus. Pellentesque rhoncus pellentesque est et viverra. Pellentesque non risus velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+This work consists in the elaboration of a proof of concept (*POC*) of a deep learning model (*DL*) for a system that recommends products available on the SINTEGRE Portal, prepared by the National Electric System Operator - ONS, for internal users and external to the organization.
+The purpose of POC is to verify the feasibility of a solution at this level, evaluating the techniques, models and algorithms that best meet the requirements and data of SINTEGRE.
 
 ### 1. Introdução
 
-O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
+O **SINTEGRE** é um portal, do ONS, que disponibiliza informações do setor elétrico elaborados pelo Operador, no qual denominamos de produtos, para diferentes nichos de usuários, cada qual com interesses específicos. Dentre desses grupos, podemos destacar:
 *   Colaboradores do ONS
 *   Agentes do Setor Elétrico
 *   Empresas ligadas ou não ao Setor Elétrico
