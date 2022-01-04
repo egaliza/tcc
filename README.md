@@ -52,6 +52,10 @@ Um Sistema de recomendação pode ser definido como sendo uma ferramenta que uti
 
 Um sistema de recomendação está relacionado a questões sociais, ele se preocupa com a extração de informações sobre as preferências e escolhas das pessoas, do que as pessoas gostam e do que não gostam. Um sistema de recomendação utiliza os dados que são fornecidos nessas escolhas, nessas curtidas, através de navegação na web e em apps. 
 
+Os dados referentes aos usuários podem ser de dois tipos: explícitos ou implícitos. Os explícitos consistem em informação concedida pelos usuários, geralmente diante de alguma pergunta ou solicitação, como comentários e avaliações. Já os implícitos são produzidos de forma espontânea pelos usuários e têm a ver com o comportamento dele durante a navegação, como cliques que faz, buscas, tempo de permanência em alguma página etc. 
+
+Atualmente, os sistemas de recomendação estão presentes na maioria dos serviços de streaming, nas redes sociais, comércio eletrônico e até em lojas de aplicativos que utilizamos no dia a dia. 
+
 ### 3. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
